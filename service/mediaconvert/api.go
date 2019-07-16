@@ -9385,6 +9385,9 @@ type Input struct {
 
 	// Selector for video.
 	VideoSelector *VideoSelector `locationName:"videoSelector" type:"structure"`
+	
+	// ウワアアアアア
+	Position *Rectangle  `locationName:"position" type:"structure"`
 }
 
 // String returns the string representation
